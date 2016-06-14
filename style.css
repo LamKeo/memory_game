@@ -22,3 +22,7 @@ h2 {
 .name {
   color: #ff0000;
 }
+
+body {
+  text-align: center;
+}
